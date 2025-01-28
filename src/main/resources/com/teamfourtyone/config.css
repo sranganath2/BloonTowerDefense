@@ -1,0 +1,27 @@
+#displayText{
+	-fx-font-size: 300%;
+	-fx-text-fill:#B3A369;
+}
+
+#setting{
+	-fx-font-size: 150%;
+	-fx-text-fill:#B3A369;
+}
+
+#submitButton{
+	-fx-text-fill:white;
+	-fx-font-size: 150%;
+	-fx-background-color:#003057;
+}
+
+#returnButton{
+	-fx-text-fill:white;
+	-fx-font-size: 150%;
+	-fx-background-color: #1c7040;
+}
+
+#warningText{
+	-fx-font-size: 150%;
+	-fx-text-fill: #f52b2b;
+}
+
